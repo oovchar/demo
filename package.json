@@ -1,0 +1,19 @@
+{
+  "name": "les_10",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "js"
+  ],
+  "author": "Olena",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.4.1"
+  }
+}
